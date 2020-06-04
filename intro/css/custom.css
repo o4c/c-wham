@@ -1,0 +1,11 @@
+h2 {
+	font-family: cursive; 
+	font-size: 40px;
+}
+
+.carousel-inner>.item>a>img, 
+.carousel-inner>.item>img, .img-responsive, 
+.thumbnail a>img, 
+.thumbnail>img {
+	height: auto px;
+}
